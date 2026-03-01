@@ -1,7 +1,7 @@
 {
-  "name": "dimmer-deck",
-  "version": "0.0.4",
-  "description": "Make your brightness even dimmer",
+  "name": "dimmer-deck-sight",
+  "version": "0.0.1",
+  "description": "Adjust DeckSight brightness with default controls.",
   "type": "module",
   "scripts": {
     "build": "rollup -c",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chenx-dust/DimmerDeck.git"
+    "url": "git+https://github.com/jsnshrmn/DimmerDeckSight.git"
   },
   "keywords": [
     "decky",
@@ -20,12 +20,15 @@
     "utility",
     "brightness"
   ],
-  "author": "Chenx Dust <chenx_dust@outlook.com>",
+  "author": {
+    "name":  "Jason Sherman",
+    "url": " https://github.com/jsnshrmn"
+  },
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/chenx-dust/DimmerDeck/issues"
+    "url": "https://github.com/chenx-dust/DimmerDeckSight/issues"
   },
-  "homepage": "https://github.com/chenx-dust/DimmerDeck#readme",
+  "homepage": "https://github.com/jsnshrmn/DimmerDeckSight#readme",
   "devDependencies": {
     "@decky/rollup": "^1.0.2",
     "@decky/ui": "^4.11.1",

@@ -58,3 +58,6 @@ cli/decky
 
 /dev.sh
 /decky.pyi
+
+# Ignore package lock
+package-lock.json
